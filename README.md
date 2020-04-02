@@ -13,6 +13,7 @@ Instalation process compared to Windows.
 
 Tools we are going to go through (not necessarily in that order, and let's see how far we go)
 
+```
 Bash (the terminal)
 ls
 cd
@@ -39,3 +40,4 @@ kill
 
 environment variables
 bashrc
+```
